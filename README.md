@@ -1,4 +1,4 @@
-# express_amazon_scapper
+# van_amazon_scapper
 
 Create a NodeJS Express backend server for scraping Amazon data using ScraperAPI service https://www.scraperapi.com/
 
@@ -14,15 +14,15 @@ Create a NodeJS Express backend server for scraping Amazon data using ScraperAPI
 
 /search/:searchProduct
 
-### GET Product detail
+### GET product detail
 
 /products/:productId
 
-### GET Product Reviews
+### GET product peviews
 
 /products/:productId/reviews
 
-### GET Product Offers
+### GET product offers
 
 /products/:productId/offers
 
